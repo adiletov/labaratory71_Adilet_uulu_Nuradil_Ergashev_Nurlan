@@ -1,0 +1,7 @@
+export const DISHES = 'DISHES';
+export const ADD_DISH = 'ADD_DISH';
+export const DISHES_ORDER_REQUEST = 'DISHES_ORDER_REQUEST';
+export const DISHES_ORDER_ERROR = 'DISHES_ORDER_ERROR';
+export const DISHES_ORDER_INIT = 'DISHES_ORDER_INIT';
+
+

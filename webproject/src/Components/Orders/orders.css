@@ -1,0 +1,27 @@
+.orderBlock{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.orders{
+    display: flex;
+}
+.spinnerBlock{
+    position: fixed;
+    overflow: auto;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.spinner{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -75px;
+}
